@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Narayana Teja Kumar</h1>
-# 💫 About Me:
+## 💫 About Me:
 A passionate full stack web developer
 
 
